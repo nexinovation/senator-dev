@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Senator Olorunnisola</h1>
 <h3 align="center">A passionate python software developer</h3>
 
-<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>  </p>
+<!--p align="center"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>  </p-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senator-dev&label=Profile%20views&color=0e75b6&style=flat" alt="senator-dev" /> </p>
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **senatoreniola@gmail.com**
 
-- ⚡ Fun fact **I am working on been the best developer**
+- ⚡ Fun fact **Just a guy who love coffee**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
