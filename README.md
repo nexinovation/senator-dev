@@ -1,11 +1,49 @@
-![MasterHead](https://4.bp.blogspot.com/-6vGvy4vCcvE/Xdcwnaf7XzI/AAAAAAAANZM/Io2mm8SXjmUVCo60byOn-XpLUpn54nizACLcBGAsYHQ/s1600/image1.gif)
+![](assets/Bottom_up.svg)
+
+<!--   my-icons -->
+<p align="center">
+    <a href="https://github.com/BEPb/BEPb"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+    <a href="https://github.com/BEPb/BEPb/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
+    <a href="https://github.com/BEPb/BEPb/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a>
+    <a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
+</p>
+
+<!--   my-header-img -->
+![](./src/header_.png)
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+
+
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Andrej+Marinchenko;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+
+
+<!--   my-kaggle     
+### My achievements on [kaggle](https://www.kaggle.com/andrej0marinchenko):
+
+![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/discussion/light)
+-->
+
+
+<!--   my-skils -->
+
+| Property                                        | Data             
+
+
+
+
+<!--[MasterHead](https://4.bp.blogspot.com/-6vGvy4vCcvE/Xdcwnaf7XzI/AAAAAAAANZM/Io2mm8SXjmUVCo60byOn-XpLUpn54nizACLcBGAsYHQ/s1600/image1.gif)
 
 <h1 align="center">Hi 👋, I'm Senator Olorunnisola</h1>
 <h3 align="center">A passionate python software developer</h3>
 
 <!--p align="center"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>  </p-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=senator-dev&label=Profile%20views&color=0e75b6&style=flat" alt="senator-dev" /> </p>
+<!--p align="left"> <img src="https://komarev.com/ghpvc/?username=senator-dev&label=Profile%20views&color=0e75b6&style=flat" alt="senator-dev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senator-dev" alt="senator-dev" /></a> </p>
 
@@ -27,7 +65,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<!--h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/lightz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lightz" height="30" width="40" /></a>
 <a href="https://twitter.com/senator_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="senator_dev" height="30" width="40" /></a>
@@ -46,4 +84,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senator-dev&show_icons=true&locale=en" alt="senator-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senator-dev&" alt="senator-dev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senator-dev&" alt="senator-dev" /></p> -->
