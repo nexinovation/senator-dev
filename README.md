@@ -82,7 +82,7 @@
   
 <div> 
   <p align="center">
-    <a href="https://www.linkedin.com/in/senator-dev/"><img height="35" width="140" title="linkedin.com/in/senator-dev" src="./img/linkedin.png">
+    <a href="https://www.linkedin.com/in/senator-dev/"><img height="35" width="140" title="linkedin.com/in/senator-dev" src="./linkedin.png">
     </a>
   </p>
 </div>
@@ -93,7 +93,7 @@
  
 <div> 
   <p align="center">
-    <a href="#"><img title="Snake animation" src="./img/snake.svg">
+    <a href="#"><img title="Snake animation" src="./snake.svg">
     </a>
   </p>
 </div>
