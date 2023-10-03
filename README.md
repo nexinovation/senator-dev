@@ -5,7 +5,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=header"/>
 </a>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007acc&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Senator olorunnisola;I'm+from+nigeria;I'm+a+Software+Developer;Be+Welcome!+ツ)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Senator+Olorunnisola+I'm+from+Nigeria+I'm+a+Software+Developer+Be+Welcome)](https://git.io/typing-svg)
 
 <div align="center">
   <br>
